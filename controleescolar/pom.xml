@@ -12,7 +12,7 @@
 	<spring.security.version>5.0.7.RELEASE</spring.security.version>
 	<spring.data.version>2.0.9.RELEASE</spring.data.version>
 	<spring.integration.mail.version>5.0.7.RELEASE</spring.integration.mail.version>
-	<fasterxml.jackson.version>2.9.6</fasterxml.jackson.version>
+	<fasterxml.jackson.version>2.12.3</fasterxml.jackson.version>
   </properties>
   <repositories>
     <repository>
